@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/level--of-love/static/css/main.dd2c5d73.css",
+    "main.js": "/level--of-love/static/js/main.ca2e216b.js",
+    "static/js/787.e04b0ea4.chunk.js": "/level--of-love/static/js/787.e04b0ea4.chunk.js",
+    "static/media/paris2.jpg": "/level--of-love/static/media/paris2.1ec0371d6e2a32a0d846.jpg",
+    "index.html": "/level--of-love/index.html",
+    "main.dd2c5d73.css.map": "/level--of-love/static/css/main.dd2c5d73.css.map",
+    "main.ca2e216b.js.map": "/level--of-love/static/js/main.ca2e216b.js.map",
+    "787.e04b0ea4.chunk.js.map": "/level--of-love/static/js/787.e04b0ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2c5d73.css",
+    "static/js/main.ca2e216b.js"
+  ]
+}
